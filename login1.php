@@ -13,7 +13,7 @@ if (isset($_POST['username']) && isset($_POST['password'])) {
             echo "<script language='javascript'>";
             echo "alert('Incorrect UserName and Password')";
             echo "</script>";
-            echo "<script>window.location.href='index1.php'</script>";
+            echo "<script>window.location.href='index.html'</script>";
             }
         }
     ?>
